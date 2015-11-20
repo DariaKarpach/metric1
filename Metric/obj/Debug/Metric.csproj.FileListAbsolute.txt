@@ -1,0 +1,6 @@
+D:\БГУИР\2 курс 1 семестр\МСиСвИнфТ\Metric\Metric\bin\Debug\Metric.exe.config
+D:\БГУИР\2 курс 1 семестр\МСиСвИнфТ\Metric\Metric\bin\Debug\Metric.exe
+D:\БГУИР\2 курс 1 семестр\МСиСвИнфТ\Metric\Metric\bin\Debug\Metric.pdb
+D:\БГУИР\2 курс 1 семестр\МСиСвИнфТ\Metric\Metric\obj\Debug\Metric.csprojResolveAssemblyReference.cache
+D:\БГУИР\2 курс 1 семестр\МСиСвИнфТ\Metric\Metric\obj\Debug\Metric.exe
+D:\БГУИР\2 курс 1 семестр\МСиСвИнфТ\Metric\Metric\obj\Debug\Metric.pdb
